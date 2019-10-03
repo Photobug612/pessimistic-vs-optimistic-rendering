@@ -1,0 +1,44 @@
+body {
+    align-content: center;
+    text-align: center;
+}
+
+form {
+    border: solid blue;
+    background: lightblue;
+}
+
+input {
+    width: 25%;
+    height: 25px;
+}
+
+button {
+    width: 20%;
+    height: 30px;
+    margin: 20px;
+    background: blue;
+    color: white;
+}
+
+button:hover {
+    background: white;
+    color: blue;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+    border: solid blue;
+}
+
+li {
+    padding: 10px;
+    margin: 20px;
+    border: solid blue;
+    background: lightblue;
+}
