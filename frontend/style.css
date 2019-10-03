@@ -6,6 +6,8 @@ body {
 form {
     border: solid blue;
     background: lightblue;
+    margin: auto;
+    width: 50%;
 }
 
 input {
@@ -28,6 +30,8 @@ button:hover {
 
 ul {
     list-style: none;
+    align-content: center;
+    margin: auto;
 }
 
 img {
