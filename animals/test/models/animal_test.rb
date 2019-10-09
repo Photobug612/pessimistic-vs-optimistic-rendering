@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class ImagesControllerTest < ActionDispatch::IntegrationTest
+class AnimalTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
